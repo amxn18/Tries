@@ -3,6 +3,8 @@
 //   insert()    -> O(len)
 //   search()    -> O(len)
 //   startsWith() -> O(len)
+#include <bits/stdc++.h>
+using namespace std;
 
 class Node {
     public:
