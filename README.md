@@ -31,7 +31,7 @@ This repository contains the complete implementation and problems related to **T
 | # | Problem Name | Description |
 |--|--------------|-------------|
 | 1 | **Implement Trie (Prefix Tree)** | Standard problem to implement the core Trie operations (LC/CodingNinjas). |
-| 2 | **Longest Word with All Prefixes** | Find the longest word such that all its prefixes also exist in the trie. |
+| 2 | **Longest Word with All Prefixes (Complete String)** | Find the longest word such that all its prefixes also exist in the trie. |
 | 3 | **Insert and Search in Trie** | Basic insertion and searching functionality of trie. |
 | 4 | **Word Dictionary / Add and Search Word** | Word search with `.` wildcard support. |
 | 5 | **Number of Distinct Substrings** | Count the number of distinct substrings using trie. |
