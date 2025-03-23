@@ -7,12 +7,25 @@ This repository contains the complete implementation and problems related to **T
 
 ## 📌 Contents
 
-### ✅ Trie Implementation
-- Custom TrieNode class using array of 26 pointers (for lowercase English letters).
+### ✅ Trie Implementation (Basic)
+- Custom `Node` class using an array of 26 pointers to represent lowercase English letters ('a' to 'z').
+- Efficient Trie structure for prefix-based operations.
 - Functions:
-  - `insert(word)` → Inserts a word into the trie.
-  - `search(word)` → Checks if a word exists in the trie.
-  - `startsWith(prefix)` → Checks if there is any word in the trie that starts with the given prefix.
+  - insert(word)        → Inserts a word into the trie.
+  - search(word)        → Checks if a word exists in the trie.
+  - startsWith(prefix)  → Checks if any word in the trie starts with the given prefix.
+
+### ✅ Implement Trie II (With Count & Erase)
+- Extended Trie with frequency tracking for each word and prefix.
+- Custom `Node` class maintains:
+  - ew → Number of times a word ends at this node.
+  - cp → Number of times a prefix passes through this node.
+- Functions:
+  - insert(word)                  → Inserts a word and updates prefix + end counts.
+  - countWordsEqualTo(word)      → Returns how many times the exact word was inserted.
+  - countWordsStartingWith(pre)  → Returns how many words start with the given prefix.
+  - erase(word)                  → Deletes one occurrence of the word from the trie.
+
 
 ### ✅ Trie Problems Included
 | # | Problem Name | Description |
