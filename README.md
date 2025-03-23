@@ -28,17 +28,16 @@ This repository contains the complete implementation and problems related to **T
 
 
 ### ✅ Trie Problems Included
-| # | Problem Name | Description |
-|--|--------------|-------------|
-| 1 | **Implement Trie (Prefix Tree)** | Standard problem to implement the core Trie operations (LC/CodingNinjas). |
-| 2 | **Longest Word with All Prefixes (Complete String)** | Find the longest word such that all its prefixes also exist in the trie. |
-| 3 | **Word Dictionary / Add and Search Word** | Word search with `.` wildcard support. |
-| 4 | **Number of Distinct Substrings** | Count the number of distinct substrings using trie. |
-| 5 | **Implement Phone Directory** | Return all matching contacts from a dictionary for a given prefix. |
-| 6 | **Word Break using Trie** | Solve word break problem using dictionary in a Trie. |
-| 7 | **Word Search II (Leetcode Hard)** | Use backtracking with Trie to find all words in a 2D board. |
-| 8 | **Replace Words (Prefix Matching)** | Replace words in a sentence using shortest prefix from a dictionary. |
-
+| # | Problem Name |
+|--|--------------|
+| 1 | **Implement Trie (Prefix Tree)** |
+| 2 | **Longest Word with All Prefixes (Complete String)** | 
+| 3 | **Count Distinct Substrings** |
+| 4 | **Maximum XOR of two numbers in an array** |
+| 5 | **Word Search II** |
+| 6 | **Longest common suffix** |
+| 7 | **Replace Words (Prefix Matching)** |
+| 8 | **Sum of prefix Scores of strings ** |
 ---
 
 ## 🧠 Why Tries?
