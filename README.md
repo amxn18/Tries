@@ -37,7 +37,7 @@ This repository contains the complete implementation and problems related to **T
 | 5 | **Word Search II** |
 | 6 | **Longest common suffix** |
 | 7 | **Replace Words (Prefix Matching)** |
-| 8 | **Sum of prefix Scores of strings ** |
+| 8 | **Sum of prefix Scores of strings** |
 ---
 
 ## 🧠 Why Tries?
